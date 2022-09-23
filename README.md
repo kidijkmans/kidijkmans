@@ -7,9 +7,9 @@ My name is Kimberly (you can call me Kim) and I’m originally from the Netherla
 
 ## Education 🎓
 
-* 👩🏻‍💻 MSc Computer Science
-* 📈 MSc Business with Marketing Management
-* 🎨 Bachelor's Graphical and Digital Media
+* 👩🏻‍💻 MSc in Computer Science
+* 📈 MSc in Business with Marketing Management
+* 🎨 Bachelor's in Graphical and Digital Media
 
 ## Skills
 
