@@ -1,9 +1,10 @@
 # Hi there 👋
 
-My name is Kimberly (you can call me Kim) and I’m originally from the Netherlands but live in London now. I recently completed my MSc in Computer Science and am now exploring my interests in technology, design, and business.
+My name is Kimberly (but you can call me Kim) and I’m originally from the Netherlands but live in London now. I recently completed my MSc in Computer Science and am now exploring my interests in technology, design, and business.
 
 * 📍 Based in London, UK
 * 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/kim-d/)
+* 👾 View more work on [CodePen](https://codepen.io/Kidijkmans)
 
 ## Education 🎓
 
