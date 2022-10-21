@@ -45,3 +45,7 @@ My name is Kimberly (but you can call me Kim) and I’m originally from the Neth
 * 🐶 Love dogs and horses
 * 🌱 Care for nature and our planet
 * 🚀 Enjoy travelling and discovering new places
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidijkmans&layout=compact)
