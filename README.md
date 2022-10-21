@@ -6,11 +6,13 @@ My name is Kimberly (but you can call me Kim) and I’m originally from the Neth
 * 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/kim-d/)
 * 👾 View more work on [CodePen](https://codepen.io/Kidijkmans)
 
-## Education 🎓
+## Education and experience
 
-* 👩🏻‍💻 MSc in Computer Science
+* 🎓 MSc in Computer Science
 * 📈 MSc in Business with Marketing Management
 * 🎨 Bachelor's in Graphical and Digital Media
+* 👩🏻‍💻 Software and web development internship at Rareloop
+* 🏆 Amadeus #1AHACK4SUSTAINABILITY hackathon winner
 
 ## Skills
 
